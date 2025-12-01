@@ -13,7 +13,7 @@
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22" style="vertical-align: middle;">
-  <span style="font-size: 32px; font-weight: bold; vertical-align: middle;">Technologies That I Know</span>
+  <span style="font-size: 32px; font-weight: bold; vertical-align: middle;">Technologies I Know</span>
 </h2>
 <br>
 <p>
