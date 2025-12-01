@@ -71,5 +71,5 @@
 
 <br>
 </p>
-<p>Mi curriculum: <a href=""></a></p>
+<p>Mi curriculum: <a href="https://drive.google.com/file/d/1uYRwSykBDn6LypoQOx5WpqGNDMVyU8Tt/view?usp=sharing"></a></p>
 <p>Credit: <a href="https://github.com/SpardaTheEngineer">Francisco Jose Castaño Ruiz</a></p>
