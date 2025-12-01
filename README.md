@@ -15,14 +15,14 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22" style="vertical-align: middle;">
   <span style="font-size: 32px; font-weight: bold; vertical-align: middle;">Technologies That I Know</span>
 </h2>
-
-<p align="center">
+<br>
+<p>
 
 - **Languages**:
-    
-  <p align="center">
+<br>    
+  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=php,bash,html,css,js,java,c,mysql,postgres,mongodb,&perline=14" />
   </a>
 </p>
 
@@ -31,19 +31,20 @@
 - **Front-End Development**:
 
 <br>
-  <p align="center">
+  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,java,js,nextjs,nodejs,angular,tailwind,bootstrap,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,java,js,angular,tailwind,bootstrap,ts&perline=14" />
   </a>
 </p>
 
 <br>
+
 - **Back-End Development**:
 
 <br>
-  <p align="center">
+  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,java,js,nextjs,nodejs,angular,tailwind,bootstrap,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs&perline=14" />
   </a>
 </p>
 
@@ -51,9 +52,9 @@
 
 - **Softwares and Tools**:
 <br>
-  <p align="center">
+  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,docker,github,linux,md,nginx,nodejs,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,docker,github,linux,md,discord&perline=14" />
   </a>
 </p>
 
@@ -62,12 +63,13 @@
 - **Extras**:
 
 <br>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,androidstudio,apple,arch,arduino,kali,instagram,&perline=14" />
   </a>
 </p>
 
 <br>
-
+</p>
+<p>Mi curriculum: <a href=""></a></p>
 <p>Credit: <a href="https://github.com/SpardaTheEngineer">Francisco Jose Castaño Ruiz</a></p>
